@@ -73,3 +73,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/VERSION_NAME
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Dec 19 2010 Rémy Clouard <shikamaru@mandriva.org> 3.0.24-1mdv2011.0
++ Revision: 623120
+- import rubygem-haml
+
