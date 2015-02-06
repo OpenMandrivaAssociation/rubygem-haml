@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    3.0.24
-Release:    %mkrel 1
+Release:    2
 Summary:    An elegant, structured XHTML/XML templating engine
 Group:      Development/Ruby
 License:    GPLv2+
