@@ -6,7 +6,7 @@ Release:    2
 Summary:    An elegant, structured XHTML/XML templating engine
 Group:      Development/Ruby
 License:    GPLv2+
-URL:        http://haml-lang.com/
+URL:        https://haml-lang.com/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
